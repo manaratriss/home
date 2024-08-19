@@ -1,0 +1,15 @@
+.line{
+    height: 4px;
+    width: 80px;
+ }
+
+ .border-0 {
+    border: 0 !important;
+}
+
+.border-bottom {
+    border-bottom: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
+}
+
+
+ 
